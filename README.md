@@ -1,2 +1,2 @@
-100xdevs Cohort 3 Assignments
-Just started learn....
+100xdevs Cohort 3 Assignments:-
+Just started learn about web development
